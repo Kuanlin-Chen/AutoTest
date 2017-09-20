@@ -2,7 +2,7 @@
 
 """
 Program:
-This program will list devices via adb
+This program will flash devices via adb and fastboot
 History:
 20170920 Kuanlin Chen
 """
